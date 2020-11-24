@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supercon", "src\Supercon\Supercon.csproj", "{4E4F3973-09F0-4449-9677-99920F17A70F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supercon.Test", "src\Supercon.Test\Supercon.Test.csproj", "{D78E5CD8-7ECF-4158-97B9-3B0BD5360914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4F3973-09F0-4449-9677-99920F17A70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4F3973-09F0-4449-9677-99920F17A70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4F3973-09F0-4449-9677-99920F17A70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4F3973-09F0-4449-9677-99920F17A70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78E5CD8-7ECF-4158-97B9-3B0BD5360914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78E5CD8-7ECF-4158-97B9-3B0BD5360914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78E5CD8-7ECF-4158-97B9-3B0BD5360914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78E5CD8-7ECF-4158-97B9-3B0BD5360914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E4D3147-B4FF-477E-8B82-EF109C9A6DA9}
+	EndGlobalSection
+EndGlobal
